@@ -2,6 +2,7 @@
 # Classifiez automatiquement des biens de consommation
 Contexte :
 L'entreprise Place de marché souhaite lancer une marketplace e-commerce 
+
 Objectifs :
 - Faciliter la mise en ligne de nouveaux articles et la recherche de produits automatisant la tâche d’attribution de la catégorie d’un article
 - Améliorer l’expérience utilisateur et fiabiliser la catégorisation des produits
